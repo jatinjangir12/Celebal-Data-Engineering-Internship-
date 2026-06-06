@@ -269,9 +269,10 @@ FROM orders
 
 -- Q-14
 
+
 SELECT SUM(total_amount)
 FROM orders
-WHERE status = "Delivered" ;
+WHERE status = 'Delivered';
 
 
 -- Q-15
@@ -287,7 +288,7 @@ FROM orders
 GROUP BY status
 ORDER BY total_revenue DESC;
 
---Q-17
+-- Q-17
 
 SELECT category, 
     MAX(unit_price) AS Expensive_product, 
@@ -406,7 +407,7 @@ REFERENCES products(product_id)
 INSERT INTO orders
 VALUES (1011, 999, CURDATE(), "Pending", 1598.00);
 
---Because an order with customer_id = 999 cannot be inserted unless a customer with ID 999 exists in the customers table.
+-- Because an order with customer_id = 999 cannot be inserted unless a customer with ID 999 exists in the customers table.
 
 
 -- Q-24  product_name, unit_price, price_tier

@@ -123,7 +123,7 @@ SELECT
 FROM superstore;
 
 
---first and last date
+-- first and last date
 
 SELECT
     MIN(STR_TO_DATE(`Order Date`, '%m/%d/%Y')) AS Earliest_Order,
