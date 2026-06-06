@@ -1,0 +1,81 @@
+﻿# Week 2 SQL
+ 
+1) ShopEase Database Management System
+
+Designed and implemented a relational database for an e-commerce platform.
+
+Key Concepts Covered:
+
+Database Design
+Primary & Foreign Keys
+Constraints (PK, FK, UNIQUE, NOT NULL, CHECK)
+Joins (INNER, LEFT, RIGHT)
+Aggregate Functions
+CASE Statements
+Transactions & ACID Properties
+Indexing
+
+Business Analysis:
+
+Customer Order Analysis
+Revenue Analysis
+Product Performance
+Order Status Summary
+
+
+2) Superstore Data Exploration & Analysis
+
+Performed SQL-based analysis on the Superstore dataset to generate business insights.
+
+Key Concepts Covered:
+
+Data Import & Validation
+Data Exploration
+Filtering using WHERE
+GROUP BY & Aggregate Functions
+ORDER BY & LIMIT
+Sales & Profit Analysis
+Customer Analysis
+Regional Performance Analysis
+Monthly Sales & Profit Trends
+
+Business Insights Generated:
+
+Top Customers by Sales
+Best-Selling Products
+Most Profitable Categories
+Regional Sales Performance
+Data Quality Validation
+📈 Skills Demonstrated
+SQL Query Writing
+Database Design & Management
+Data Cleaning & Validation
+Joins & Relationships
+Aggregation & Reporting
+Business Intelligence Analysis
+Transaction Management
+Data Exploration & Visualization Preparation
+Problem Solving with SQL
+Deliverables
+SQL Scripts (.sql)
+Database Schema Design
+Query Results & Screenshots
+Business Insights Reports
+README Documentation
+ Learning Outcomes
+
+Through these projects, I gained hands-on experience in:
+
+Designing relational databases.
+Importing and managing datasets in MySQL.
+Writing efficient SQL queries.
+Performing business-focused data analysis.
+Applying database constraints and relationships.
+Generating actionable insights from raw data.
+Understanding transaction management and ACID principles.
+
+Author
+
+Jatin Jangir
+Data Engineering Intern
+Celebal Technologies Internship Program
