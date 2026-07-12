@@ -111,10 +111,6 @@ Cross-System-Monitoring/
 ├── dashboard/
 │   └── dashboard.csv
 │
-├── reports/
-│   ├── validation_report.csv
-│   ├── drift_report.csv
-│   └── trust_score_report.csv
 │
 ├── README.md
 ├── requirements.txt
@@ -185,13 +181,13 @@ Trust Score = 100 −
 Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/jatinjangir12/Celebal-Data-Engineering-Internship-.git
 ```
 
 Move into the project
 
 ```bash
-cd Cross-System-Monitoring
+cd Cross-System Data Monitoring Platform
 ```
 
 Install dependencies
