@@ -185,7 +185,7 @@ Trust Score = 100 −
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Cross-System-Monitoring.git
+git clone 
 ```
 
 Move into the project
